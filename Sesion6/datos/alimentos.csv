@@ -1,0 +1,55 @@
+alimento,categoria,kcal,proteina_g,carbohidratos_g,grasa_g,fibra_g,azucar_g,sodio_mg
+arroz blanco cocido,cereales y tubérculos,130,2.7,28.2,0.3,0.4,0.1,1
+arroz integral cocido,cereales y tubérculos,123,2.7,25.6,1.0,1.6,0.2,4
+pasta cocida,cereales y tubérculos,158,5.8,30.9,0.9,1.8,0.6,1
+pan blanco,cereales y tubérculos,265,9.0,49.0,3.2,2.7,5.0,490
+pan integral,cereales y tubérculos,247,13.0,41.0,3.4,7.0,6.0,450
+arepa de maíz blanco,cereales y tubérculos,200,4.5,40.0,2.5,3.0,0.5,200
+avena en hojuelas,cereales y tubérculos,379,13.2,67.7,6.5,10.1,1.0,6
+papa cocida,cereales y tubérculos,87,1.9,20.1,0.1,1.8,0.9,4
+yuca cocida,cereales y tubérculos,112,1.4,27.0,0.3,1.5,1.2,8
+plátano maduro,cereales y tubérculos,122,1.3,31.9,0.4,2.3,15.0,4
+mazorca cocida,cereales y tubérculos,96,3.4,21.0,1.5,2.4,4.5,1
+fríjol rojo cocido,leguminosas,127,8.7,22.8,0.5,6.4,0.3,2
+lenteja cocida,leguminosas,116,9.0,20.1,0.4,7.9,1.8,2
+garbanzo cocido,leguminosas,164,8.9,27.4,2.6,7.6,4.8,7
+pechuga de pollo cocida,carnes huevos y pescados,165,31.0,0.0,3.6,0.0,0.0,74
+carne de res magra cocida,carnes huevos y pescados,200,29.0,0.0,9.0,0.0,0.0,60
+lomo de cerdo cocido,carnes huevos y pescados,143,26.0,0.0,3.5,0.0,0.0,57
+huevo,carnes huevos y pescados,143,12.6,0.7,9.5,0.0,0.4,142
+atún en agua,carnes huevos y pescados,116,25.5,0.0,0.8,0.0,0.0,338
+salmón cocido,carnes huevos y pescados,206,22.1,0.0,12.4,0.0,0.0,61
+tilapia cocida,carnes huevos y pescados,128,26.2,0.0,2.7,0.0,0.0,56
+salchicha,carnes huevos y pescados,290,10.3,4.2,26.1,0.0,1.6,1010
+leche entera,lácteos,61,3.2,4.8,3.3,0.0,5.1,43
+leche descremada,lácteos,34,3.4,5.0,0.1,0.0,5.0,42
+yogur natural,lácteos,61,3.5,4.7,3.3,0.0,4.7,46
+yogur griego sin grasa,lácteos,59,10.2,3.6,0.4,0.0,3.2,36
+queso campesino,lácteos,264,17.5,2.5,20.5,0.0,2.5,550
+queso mozzarella,lácteos,300,22.2,2.2,22.4,0.0,1.0,627
+aguacate,frutas,160,2.0,8.5,14.7,6.7,0.7,7
+banano,frutas,89,1.1,22.8,0.3,2.6,12.2,1
+manzana,frutas,52,0.3,13.8,0.2,2.4,10.4,1
+naranja,frutas,47,0.9,11.8,0.1,2.4,9.4,0
+papaya,frutas,43,0.5,10.8,0.3,1.7,7.8,8
+mango,frutas,60,0.8,15.0,0.4,1.6,13.7,1
+guayaba,frutas,68,2.6,14.3,1.0,5.4,8.9,2
+piña,frutas,50,0.5,13.1,0.1,1.4,9.9,1
+fresa,frutas,32,0.7,7.7,0.3,2.0,4.9,1
+brócoli,verduras,34,2.8,6.6,0.4,2.6,1.7,33
+espinaca,verduras,23,2.9,3.6,0.4,2.2,0.4,79
+zanahoria,verduras,41,0.9,9.6,0.2,2.8,4.7,69
+tomate,verduras,18,0.9,3.9,0.2,1.2,2.6,5
+lechuga,verduras,15,1.4,2.9,0.2,1.3,0.8,28
+cebolla,verduras,40,1.1,9.3,0.1,1.7,4.2,4
+ahuyama,verduras,26,1.0,6.5,0.1,0.5,2.8,1
+almendras,grasas y frutos secos,579,21.2,21.6,49.9,12.5,4.4,1
+maní,grasas y frutos secos,567,25.8,16.1,49.2,8.5,4.7,18
+nueces,grasas y frutos secos,654,15.2,13.7,65.2,6.7,2.6,2
+aceite de oliva,grasas y frutos secos,884,0.0,0.0,100.0,0.0,0.0,2
+mantequilla,grasas y frutos secos,717,0.9,0.1,81.1,0.0,0.1,643
+azúcar blanca,azúcares bebidas y ultraprocesados,387,0.0,100.0,0.0,0.0,100.0,1
+panela,azúcares bebidas y ultraprocesados,380,0.4,95.0,0.1,0.0,85.0,30
+gaseosa cola,azúcares bebidas y ultraprocesados,42,0.0,10.6,0.0,0.0,10.6,4
+jugo de naranja,azúcares bebidas y ultraprocesados,45,0.7,10.4,0.2,0.2,8.4,1
+papas fritas de paquete,azúcares bebidas y ultraprocesados,536,7.0,53.0,34.6,4.4,0.3,525
